@@ -1,0 +1,11 @@
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\bin\Debug\DinamikDongu.exe.config
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\bin\Debug\DinamikDongu.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\bin\Debug\DinamikDongu.pdb
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.csproj.AssemblyReference.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.Form1.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.Properties.Resources.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.csproj.GenerateResource.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.csproj.CoreCompileInputs.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\DinamikDongu\DinamikDongu\obj\Debug\DinamikDongu.pdb

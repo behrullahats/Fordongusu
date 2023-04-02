@@ -1,0 +1,11 @@
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\bin\Debug\ForDongusuOdev1.exe.config
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\bin\Debug\ForDongusuOdev1.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\bin\Debug\ForDongusuOdev1.pdb
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.csproj.AssemblyReference.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.Form1.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.Properties.Resources.resources
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.csproj.GenerateResource.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.csproj.CoreCompileInputs.cache
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.exe
+C:\Users\SEYIT\Desktop\C#\uygulamalar\Proje1\ucuncuproje\ForDongusuOdev1\ForDongusuOdev1\obj\Debug\ForDongusuOdev1.pdb
